@@ -1,5 +1,5 @@
 # Parallel Processing and Representation Sharing in Neural Network Architectures
-This repository contains a Jupyter Notebook illustrating connectionist and graph-theoretical analyses of the parallel processing capacity in neural networks. It was presented at the Analytical Connectionism summer school 2023 at UCL. The accompanying lecture notes can be found [here]{https://openreview.net/forum?id=fj6wizBip4}.
+This repository contains a Jupyter Notebook illustrating connectionist and graph-theoretical analyses of the parallel processing capacity in neural networks. It was presented at the Analytical Connectionism summer school 2023 at UCL. The accompanying lecture notes can be found here: https://openreview.net/forum?id=fj6wizBip4.
 
 The author of the Jupyter Notebook is Sebastian Musslick.
 
